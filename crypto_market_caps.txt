@@ -1,0 +1,4 @@
+Total Market Cap: $3,175,951,417,550.49
+Bitcoin Market Cap: $1,794,356,404,672.00
+Market Cap Excluding Bitcoin: $1,381,595,012,878.49
+Market Cap Excluding Bitcoin and Ethereum: $1,006,218,172,543.49
